@@ -18,4 +18,5 @@ Community Applications
  *해당 어플은 현재 플레이 스토어에 등록되어 있습니다.
  *[어플 링크](https://play.google.com/store/apps/details?id=com.gmchproject.gmch)
  *본 저장소는 현재 어플리케이션의 웹앱의 기능만 가지고 있습니다.
+ *어플이 없는 경우 서버비로 인해 문을 닫은거 입니다 ㅠㅠ
 ```
